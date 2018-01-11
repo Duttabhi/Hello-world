@@ -1,2 +1,4 @@
 # Hello-world
-The beginning
+The beginning.
+
+A new flavour to my diet.
